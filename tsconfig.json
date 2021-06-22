@@ -1,0 +1,13 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "module": "es6",
+    "moduleResolution": "node",
+    "target": "es5",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "outDir": "docs",
+    "jsx": "react"
+  }
+}
